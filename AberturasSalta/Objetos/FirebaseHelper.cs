@@ -12,7 +12,7 @@ namespace AberturasSalta.Objetos
     public class FirebaseHelper
     {
 
-        FirebaseClient firebase = new FirebaseClient("https://aberturassalta-51297-default-rtdb.firebaseio.com/");
+        FirebaseClient firebase = new FirebaseClient("your-credentials");
 
 
 
